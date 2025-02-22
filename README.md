@@ -43,7 +43,7 @@
 
 ## 📌 Featured Projects  
 
-🚀 **[Project 1 - Portfolio Website](https://github.com/sachin-maker/portfolio)**  
+🚀 **[Project 1 - Portfolio Website](https://frontend-blond-ten-33.vercel.app)**  
 🎨 Showcasing my work and projects, built with **React.js and CSS**  
 
 🚀 **[Project 2 - Moviemax](https://github.com/sachin-maker/MovieAppa)**  
@@ -54,6 +54,6 @@
 
 
 ## 📬 Get in Touch  
-📧 Email: [your-email@example.com](mailto:your-email@example.com)  
-💼 LinkedIn: [linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/YOUR-LINKEDIN/)  
-🌍 Portfolio: [YOUR-PORTFOLIO.com](https://YOUR-PORTFOLIO.com)  
+📧 Email: [your-email@example.com](sachindeshpande456@gmail.com)  
+💼 LinkedIn: [linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/sachin-deshpande-345295174/)  
+🌍 Portfolio: [YOUR-PORTFOLIO.com](https://frontend-blond-ten-33.vercel.app) 
