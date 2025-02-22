@@ -54,6 +54,6 @@
 
 
 ## 📬 Get in Touch  
-📧 Email: [your-email@example.com](sachindeshpande456@gmail.com)  
-💼 LinkedIn: [linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/sachin-deshpande-345295174/)  
-🌍 Portfolio: [YOUR-PORTFOLIO.com](https://frontend-blond-ten-33.vercel.app) 
+📧 Email: [sachindeshpande456@gmail.com](sachindeshpande456@gmail.com)  
+💼 LinkedIn: [LINKEDIN](https://www.linkedin.com/in/sachin-deshpande-345295174/)  
+🌍 Portfolio: [PORTFOLIO](https://frontend-blond-ten-33.vercel.app) 
